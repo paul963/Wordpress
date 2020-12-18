@@ -1,8 +1,12 @@
-# Wordpress Projects
-
-## Sites
-http://natalmedginecologie.ro  
-http://cons-dda.ro  
-https://pizzanapoleon.ro  
-http://ardecotrade.com    
-https://www.italiani.it  
+# Web Projects
+www.ardecotrade.com
+www.tredecoholding.ro
+www.semineudecorativ.ro
+www.natalmedginecologie.ro
+www.cons-dda.ro
+www.pizzanapoleon.ro
+www.italiani.it
+www.eurooptik.ro
+www.centrumgym.ro
+www.recuperaremedicala.physiokinesis.ro
+www.artesano.host3d.ro
