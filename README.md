@@ -1,4 +1,4 @@
-# Web Projects
+# Projects
 www.ardecotrade.com  
 www.tredecoholding.ro  
 www.semineudecorativ.ro  
