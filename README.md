@@ -1,7 +1,8 @@
 # Websites developed from scratch
-www.souqeshop.ro  
 www.artesano-tiles.ro  
+wppalegal.ro  
 www.ardecotrade.com  
+www.souqeshop.ro  
 www.academiagermanadefotbal.ro  
 www.sercontractor.co.uk/new2021  
 www.semineudecorativ.ro  
