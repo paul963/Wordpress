@@ -1,12 +1,12 @@
 # Websites developed from scratch
+www.souqeshop.ro  
 www.artesano-tiles.ro  
 www.ppalegal.ro  
-www.souqeshop.ro  
 www.qoobiss.com  
-www.academiagermanadefotbal.ro  
-www.ardecotrade.com  
 www.lyvvo.ro  
+www.academiagermanadefotbal.ro  
 www.natalmedginecologie.ro  
+www.ardecotrade.com  
 www.semineudecorativ.ro  
 
 # Websites I contributed to
