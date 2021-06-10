@@ -1,22 +1,24 @@
 # Websites developed from scratch
-www.artesano-tiles.ro  
-www.ppalegal.ro  
-www.ardecotrade.com  
+[www.artesano-tiles.ro  
+](url)www.ppalegal.ro  
 www.souqeshop.ro  
+www.qoobiss.com  
 www.academiagermanadefotbal.ro  
-www.sercontractor.co.uk/new2021  
-www.semineudecorativ.ro  
+www.ardecotrade.com  
+www.lyvvo.ro  
 www.natalmedginecologie.ro  
+www.semineudecorativ.ro  
 
 # Websites I contributed to
 www.serus.ro  
-www.autohaustudor.ro  
 www.sneakerindustry.ro  
 www.vreaulanova.ro  
 www.tredecoholding.ro  
 www.helve.ro  
 www.cons-dda.ro  
 www.pizzanapoleon.ro  
+www.autohaustudor.ro  
+www.piscinaspa.ro  
 www.optimacall.ro  
 www.balticinvest.ro  
 www.noblesse-group.com  
