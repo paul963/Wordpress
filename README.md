@@ -1,6 +1,6 @@
 # Websites developed from scratch
-[www.artesano-tiles.ro  
-](url)www.ppalegal.ro  
+www.artesano-tiles.ro  
+www.ppalegal.ro  
 www.souqeshop.ro  
 www.qoobiss.com  
 www.academiagermanadefotbal.ro  
